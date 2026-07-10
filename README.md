@@ -25,8 +25,6 @@ Built as a Stellar **White Belt Level 1** project.
 
 ## 📸 Screenshots
 
-> _Add screenshots or a short screen recording here once deployed, e.g.:_
-
 | Wallet Connected | Send Payment | Success Modal |
 |---|---|---|
 | `screenshots/wallet.png` | `screenshots/send.png` | `screenshots/success.png` |
@@ -93,8 +91,8 @@ stellar-wallet/
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/simple-stellar-payment-wallet.git
-cd simple-stellar-payment-wallet
+git clone https://github.com/mattipallivinay/stellar-payment-wallet.git
+cd stellar-payment-wallet
 npm install
 ```
 
