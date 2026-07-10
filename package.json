@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "@stellar/freighter-api": "^2.1.1",
+    "@stellar/freighter-api": "latest",
     "@stellar/stellar-sdk": "^12.3.0",
     "react-hot-toast": "^2.4.1",
     "lucide-react": "^0.427.0"
