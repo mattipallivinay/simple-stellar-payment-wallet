@@ -27,7 +27,7 @@ Built as a Stellar **White Belt Level 1** project.
 
 | Wallet Connected | Send Payment | Success Modal |
 |---|---|---|
-| ![WALLET](assets/wallet.png) | ![SEND](assets/send.png) | ![SUCCESS](assests/success.png) |
+| ![WALLET](assets/wallet.png) | ![SEND](assets/send.png) | ![SUCCESS](assets/success.png) |
 
 ## 🛠️ Tech Stack
 
