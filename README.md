@@ -39,7 +39,7 @@ Built as a Stellar **White Belt Level 1** project.
 | Wallet | Freighter API (`@stellar/freighter-api`) |
 | Notifications | react-hot-toast |
 | Icons | lucide-react |
-| Deployment | Vercel / Netlify |
+| Deployment | Vercel  |
 
 ## 📂 Folder Structure
 
