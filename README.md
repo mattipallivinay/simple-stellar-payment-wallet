@@ -44,7 +44,11 @@ Built as a Stellar **White Belt Level 1** project.
 ## 📂 Folder Structure
 
 ```
-stellar-wallet/
+simple-stellar-payment-wallet/
+├── assets/
+|   ├── wallet.png
+|   ├── send.png
+|   ├── success.png
 ├── src/
 │   ├── components/
 │   │   ├── Navbar.tsx
